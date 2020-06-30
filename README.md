@@ -27,15 +27,15 @@ All in all is a a dumbed down version of [THIS](https://www.pocketgamer.com/arti
 
 #####Wednesday -
 
-*Set up UI: NPCs placement, stat placement, health bar, damage animation, status animation, choices and selection functios and animations (ALL DAY!)
+*Set up UI: NPCs placement, stat placement, health bar, damage animation, status animation, choices and selection functions and animations (ALL DAY!)
 
 #####Thursday - 
-*Construct enemies and other NPCs (stats, images, onscreen pop-ups and interactions)
+*Construct enemies and other NPCs: stats, images, onscreen pop-ups and interactions (_ALL DAY!_)
 
 ######Friday -
-*_DIALOG, DIALOG, DIALOG, DIALOG, and DIALOG,_ : Cause they have to spit hot fire!
+*_DIALOG, DIALOG, DIALOG, DIALOG, and DIALOG,_ : Cause they have to spit hot fire! (Do I STILL NEED TO SAY IT! **ALL DAY!!!!!**)
 
-######Saturday -
+#####Saturday -
 *Run through the game and fix EVERYTHING!
 
 #####Sunday -
