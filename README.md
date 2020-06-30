@@ -22,8 +22,11 @@ All in all is a a dumbed down version of [THIS](https://www.pocketgamer.com/arti
 
 #### Tuesday 
 *Get proposal and wireframe done.
+
 *Figure out the number of backgrounds you'll need to finish. 
+
 *Build basic character stats.
+
 *Build Combat for multiple enemies and multiple actions (adding and removing status effects)
 
 #### Wednesday 
