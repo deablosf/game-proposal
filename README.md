@@ -6,10 +6,10 @@ A **_first person Turn based RPG_**; _in combat_ you'll have a set of actions yo
 
 ### Wireframe
 When in **_Combat_** the screen should look something like: 
-![](../wireframe/C.png) 
+![Combat](wireframe/C.png) 
 
 When the player is out of  Combat or _OOC_, the screen should look something like this: 
-![](../wireframe/OOC.png)
+![OOC](wireframe/OOC.png)
 
 All in all is a a dumbed down version of [THIS](https://www.pocketgamer.com/articles/057732/demon-gaze-is-ready-to-bring-first-person-dungeon-crawling-to-the-vita/)
 ### Timeline
