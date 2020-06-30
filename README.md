@@ -13,3 +13,22 @@ When the player is out of  Combat or _OOC_, the screen should look something lik
 
 All in all is a a dumbed down version of [THIS](https://www.pocketgamer.com/articles/057732/demon-gaze-is-ready-to-bring-first-person-dungeon-crawling-to-the-vita/)
 ### Timeline
+
+#####Tuesday -
+*Get proposal and wireframe done.
+*Figure out the number of backgrounds you'll need to finish. 
+*Build basic character stats.
+*Build Combat for multiple enemies and multiple actions (adding and removing status effects)
+
+#####Wednesday -
+
+*Set up UI: NPCs placement, stat placement, health bar, damage animation, status animation, choices and select function and animation (ALL DAY!)
+
+#####Thursday - 
+*Construct enemies and other NPCs (stats, images, onscreen pop-ups and interactions)
+
+######Friday -
+*_DIALOG, DIALOG, DIALOG, DIALOG,  DIALOG,_ : Cause they have to spit hot fire!
+
+######Saturday -
+*Run through the game and fix EVERYTHING!
