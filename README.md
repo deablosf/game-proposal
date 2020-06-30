@@ -4,6 +4,11 @@ You play Ramesses; it's the 70s  and Ramesses is a Bronx street punk raised in a
 ### Rules of the game 
 A **_first person Turn based RPG_**; _in combat_ you'll have a set of actions you can perform to defeat the enemies before you. _Out of combat_ you'll choose directions to go, rooms to search and characters to interact with.
 
+### Techincal Challenges
+CSS - Setting up enemy positions, clicking to select them for the proceeding actions to take effect to their particular stats.
+
+JS - Adding and removing status effects in a [simple and clean](https://www.youtube.com/watch?v=UigzN-4JR14) way.
+
 ### Wireframe
 When in **_Combat_** the screen should look something like: 
 ![Combat](wireframe/C.png) 
