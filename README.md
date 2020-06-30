@@ -5,6 +5,11 @@ You play Ramesses; it's the 70s  and Ramesses is a Bronx street punk raised by i
 A **_first person Turn based RPG_**; _in combat_ you'll have a set of actions you can perform to defeat the enemies before you. _Out of combat_ you'll choose direction to go, rooms to search and characters to interact with.
 
 ### Wireframe
+When in **_Combat_** the screen should look something like: 
+![](../wireframe/C.png) 
+
+When the player is out of  Combat or _OOC_, the screen should look something like this: 
 ![](../wireframe/OOC.png)
-A dumbed down version of [THIS](https://www.pocketgamer.com/articles/057732/demon-gaze-is-ready-to-bring-first-person-dungeon-crawling-to-the-vita/)
+
+All in all is a a dumbed down version of [THIS](https://www.pocketgamer.com/articles/057732/demon-gaze-is-ready-to-bring-first-person-dungeon-crawling-to-the-vita/)
 ### Timeline
